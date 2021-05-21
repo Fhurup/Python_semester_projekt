@@ -1,6 +1,5 @@
 from time import sleep
-from warnings import catch_warnings
-from numpy.core.numeric import NaN
+
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys 
